@@ -1,2 +1,3 @@
-# STSCOMPUTER
-I am Starting My Jurny With STS computer Full Stack Development
+# Teacher
+I am a well Web Designer
+
